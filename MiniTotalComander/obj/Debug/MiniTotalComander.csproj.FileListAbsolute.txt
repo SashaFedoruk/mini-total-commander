@@ -1,0 +1,12 @@
+c:\users\александр\documents\visual studio 2013\Projects\MiniTotalComander\MiniTotalComander\bin\Debug\MiniTotalComander.exe.config
+c:\users\александр\documents\visual studio 2013\Projects\MiniTotalComander\MiniTotalComander\bin\Debug\MiniTotalComander.exe
+c:\users\александр\documents\visual studio 2013\Projects\MiniTotalComander\MiniTotalComander\bin\Debug\MiniTotalComander.pdb
+c:\users\александр\documents\visual studio 2013\Projects\MiniTotalComander\MiniTotalComander\obj\Debug\MiniTotalComander.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2013\Projects\MiniTotalComander\MiniTotalComander\obj\Debug\MiniTotalComander.exe
+c:\users\александр\documents\visual studio 2013\Projects\MiniTotalComander\MiniTotalComander\obj\Debug\MiniTotalComander.pdb
+D:\Sasha Fedoruk\MiniTotalComander\MiniTotalComander\bin\Debug\MiniTotalComander.exe.config
+D:\Sasha Fedoruk\MiniTotalComander\MiniTotalComander\obj\Debug\MiniTotalComander.exe
+D:\Sasha Fedoruk\MiniTotalComander\MiniTotalComander\obj\Debug\MiniTotalComander.pdb
+D:\Sasha Fedoruk\MiniTotalComander\MiniTotalComander\bin\Debug\MiniTotalComander.exe
+D:\Sasha Fedoruk\MiniTotalComander\MiniTotalComander\bin\Debug\MiniTotalComander.pdb
+D:\Sasha Fedoruk\MiniTotalComander\MiniTotalComander\obj\Debug\MiniTotalComander.csprojResolveAssemblyReference.cache
